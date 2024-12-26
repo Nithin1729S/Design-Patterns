@@ -1,6 +1,4 @@
-package StrategyDesignPattern;
-
-import StrategyDesignPattern.Strategy.DriveStrategy;
+package VehicleDrive;
 
 public class Vehicle {
 

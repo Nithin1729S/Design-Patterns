@@ -1,5 +1,4 @@
-package StrategyDesignPattern;
-import StrategyDesignPattern.Strategy.SportsDriveStrategy;
+package VehicleDrive;
 
 public class OffRoadVehicle extends Vehicle {
     
